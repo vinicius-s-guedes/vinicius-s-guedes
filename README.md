@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Kace, Jira, IDM, Safeguard.</strong>
+  💼 Ferramentas: <strong>Kace, Jira, One Identity, Safeguard.</strong>
 </p>
 
 <p align="left">
