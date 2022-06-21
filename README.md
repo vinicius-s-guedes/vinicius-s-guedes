@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/vinicius-s-guedes/vinicius-s-guedes/blob/main/profile.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <strong>analista programador</strong> na Versed IT, cursando análise e desenvolvimento de sistemas na Fatec.<br>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#.</strong>
+  🦄 Linguagens: <strong>C#,JavaScript,Java.</strong>
 </p>
 
 <p align="left">
