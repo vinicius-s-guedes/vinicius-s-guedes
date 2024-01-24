@@ -1,7 +1,7 @@
 <img src="https://github.com/vinicius-s-guedes/vinicius-s-guedes/blob/main/profile.png?raw=true" min-width="300px" max-width="300px" width="300px" align="right" alt="profile">
 
 <p align="left"> 
-  <strong>Desenvolvedor na I4Pro<br>
+  <strong>Desenvolvedor C# na I4Pro<br>
   Apaixonado por um bom código!
 </p>
 
