@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>C#, JavaScript, PowerShell, Java, c++.</strong>
+  🚀 Linguagens: <strong>C#,C ++, JavaScript, PowerShell, Java.</strong>
 </p>
 
 <p align="left">
