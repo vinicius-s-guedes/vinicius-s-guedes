@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Docker, Kace, Jira, One Identity, Safeguard.</strong>
+  💼 Ferramentas/Plataformas: <strong>Docker, Kace, Jira, RabbitMQ, One Identity, Safeguard, AWS, Azure.</strong>
 </p>
 
 <p align="left">
